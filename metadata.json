@@ -1,0 +1,7 @@
+{
+  "name": "LearnMate ",
+  "description": "LearnMate is an interactive AI-powered educational assistant that helps students learn, understand, and solve problems across various subjects through explanations, quizzes, and voice-based help.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
